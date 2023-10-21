@@ -4,3 +4,6 @@ admin
 funcational user
 update the user
 block the userfunctional
+
+Inactive user will be deleted after 30 days.
+notifcation will send out before 7 days of deletion and 2nd notification and final will shared to user with in 24hrs.
